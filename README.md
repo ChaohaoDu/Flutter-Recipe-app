@@ -1,16 +1,39 @@
 # meals_app
 
-A new Flutter project.
+A budget app that show meal recipes, build with Flutter.
 
-## Getting Started
+## Screen shots
 
-This project is a starting point for a Flutter application.
+![IMG_2645](https://tva1.sinaimg.cn/large/e6c9d24egy1h4yr92qvnjj20u01sx78x.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![IMG_2646](https://tva1.sinaimg.cn/large/e6c9d24egy1h4yr984co2j20u01sxtjk.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![IMG_2647](https://tva1.sinaimg.cn/large/e6c9d24egy1h4yr9fsgdbj20u01sxtjn.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![IMG_2648](https://tva1.sinaimg.cn/large/e6c9d24egy1h4yr9bjwpvj20u01sx460.jpg)
+
+### How to use
+
+**Step 1:**
+
+Download or clone this repo:
+
+```bash
+git clone https://github.com/ChaohaoDu/Flutter-Budget-App.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies:
+
+```bash
+flutter pub get 
+```
+
+**Step 3:**
+
+Run the app
+
+```bash
+flutter run
+```
