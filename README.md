@@ -4,7 +4,7 @@ A budget app that show meal recipes, build with Flutter.
 
 ## Screen shots
 
-![IMG_2645](https://tva1.sinaimg.cn/large/e6c9d24egy1h4yr92qvnjj20u01sx78x.jpg)
+![IMG_2645](https://tva1.sinaimg.cn/small/e6c9d24egy1h4yr92qvnjj20u01sx78x.jpg)
 
 ![IMG_2646](https://tva1.sinaimg.cn/large/e6c9d24egy1h4yr984co2j20u01sxtjk.jpg)
 
